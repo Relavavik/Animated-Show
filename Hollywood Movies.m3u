@@ -5,3 +5,7 @@ http://content.discoveryftp.net/Movies/English/2021/Free%20Guy/Free.Guy.2021.108
 http://content.discoveryftp.net/Movies/English/2020/Tenet/Tenet%202020%20English%201080p%20WEB-DL%20x264%20ESubs.m
 #EXTINF:-1 tvg-name="Pirates of the Carriebbien : Curse of the black pearl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Pirates_of_the_Caribbean_-_The_Curse_of_the_Black_Pearl.png" group-title="Pirates of the Carriebbien, Pirates of the Carriebbien : Curse of the black pearl
 https://cdn.jwplayer.com/manifests/sidhNulo.m3u8
+#EXTINF:-1 tvg-name="Pirates of the Carriebbien : Curse of the black pearl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Pirates_of_the_Caribbean_-_The_Curse_of_the_Black_Pearl.png" group-title="Pirates of the Carriebbien, Pirates of the Carriebbien : Dead Man's Chest
+https://cdn.jwplayer.com/manifests/oTB3mceN.m3u8
+#EXTINF:-1 tvg-name="Pirates of the Carriebbien : " tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Pirates_of_the_Caribbean_-_The_Curse_of_the_Black_Pearl.png" group-title="Pirates of the Carriebbien, Pirates of the Carriebbien : At world's end
+https://cdn.jwplayer.com/manifests/LVvaXPod.m3u8
