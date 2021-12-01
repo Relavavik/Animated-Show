@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Free Guy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Free_Guy_2021_Poster.jpg" group-title="Comedy", Free Guy (2021)
-http://content.discoveryftp.net/Movies/English/2021/Free%20Guy/Free.Guy.2021.1080p.BluRay.x264.AAC5.1-[YTS.MX].mkv
-#EXTINF:-1 tvg-name="Free Guy" https://upload.wikimedia.org/wikipedia/en/1/14/Tenet_movie_poster.jpg" group-title="Sci-fi", Tenet (2020)
-http://content.discoveryftp.net/Movies/English/2020/Tenet/Tenet%202020%20English%201080p%20WEB-DL%20x264%20ESubs.m
+#EXTINF:-1 tvg-name="Part 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Free_Guy_2021_Poster.jpg" group-title="Comedy", Frupload.wikimedia.org/wikipedia/en/1/14/Tenet_movie_poster.jpg" group-title="Sci-fi", Tenet (2020)
+https://cdn.jwplayer.com/manifests/Qh55WVzi.m3u8
 #EXTINF:-1 tvg-name="Pirates of the Carriebbien : Curse of the black pearl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Pirates_of_the_Caribbean_-_The_Curse_of_the_Black_Pearl.png" group-title="Pirates of the Carriebbien, Pirates of the Carriebbien : Curse of the black pearl
 https://cdn.jwplayer.com/manifests/sidhNulo.m3u8
 #EXTINF:-1 tvg-name="Pirates of the Carriebbien : Curse of the black pearl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Pirates_of_the_Caribbean_-_The_Curse_of_the_Black_Pearl.png" group-title="Pirates of the Carriebbien, Pirates of the Carriebbien : Dead Man's Chest
