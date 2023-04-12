@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Part 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Free_Guy_2021_Poster.jpg" group-title="Comedy", Frupload.wikimedia.org/wikipedia/en/1/14/Tenet_movie_poster.jpg" group-title="Sci-fi", Tenet (2020)
-https://cdn.jwplayer.com/manifests/Qh55WVzi.m3u8
+http://15.1.1.34:8282/jalsha/tracks-v1a1/mono.m3u8?token=bbc11e688f850652a6c35d4daf778721d416c1c3-10b25e18096964a0dd4a3780d26dcd55-1681286036-1681275236
 #EXTINF:-1 tvg-name="Pirates of the Carriebbien : Curse of the black pearl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Pirates_of_the_Caribbean_-_The_Curse_of_the_Black_Pearl.png" group-title="Pirates of the Carriebbien, Pirates of the Carriebbien : Curse of the black pearl
 https://cdn.jwplayer.com/manifests/sidhNulo.m3u8
 #EXTINF:-1 tvg-name="Pirates of the Carriebbien : Curse of the black pearl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Pirates_of_the_Caribbean_-_The_Curse_of_the_Black_Pearl.png" group-title="Pirates of the Carriebbien, Pirates of the Carriebbien : Dead Man's Chest
