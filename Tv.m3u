@@ -6,3 +6,5 @@ http://15.1.1.38:8282/star-movies-hd/tracks-v1a1/mono.m3u8?token=68af5d8d6ec1205
 http://15.1.1.38:8282/jalsha/tracks-v1a1/mono.m3u8?token=9efb0f6f7a891e677d22e849e64c7e951ed323cd-8b0b288b1a54f553b9e763f7a4c3dd27-1689084151-1689073351
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Sports", Star Gold
 http://15.1.1.38:8282/star-gold/tracks-v1a1/mono.m3u8?token=b6a3e781b34138cf41791251e216e2cd104cd392-9967f448861403b06bc1fa57b30179f7-1689084686-1689073886
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Sports", GB
+http://15.1.1.38:8282/1LIVE/tracks-v1a1/mono.m3u8?token=27764e115eef8bbc9e8a6a802e7b95218170adea-22511818d3fb1801a124a2709a15caad-1689084817-1689074017
