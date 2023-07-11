@@ -2,3 +2,5 @@
 http://15.1.1.38:8282/1LIVE/tracks-v1a1/mono.m3u8?token=739970fbd2aa6f770f31d85e12fffd0ede0c6a17-15d6c0cebcabfd064cd57c94dd5f679d-1689082618-1689071818
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="movies", star movies hd
 http://15.1.1.38:8282/star-movies-hd/tracks-v1a1/mono.m3u8?token=68af5d8d6ec120525e678a36e6988bd50337dc14-d07d4f0eda76ac36bb12ac3e4533907a-1689083130-1689072330
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Sports", Star Jalsha
+http://15.1.1.38:8282/jalsha/tracks-v1a1/mono.m3u8?token=9efb0f6f7a891e677d22e849e64c7e951ed323cd-8b0b288b1a54f553b9e763f7a4c3dd27-1689084151-1689073351
