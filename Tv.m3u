@@ -8,3 +8,5 @@ http://15.1.1.38:8282/jalsha/tracks-v1a1/mono.m3u8?token=9efb0f6f7a891e677d22e84
 http://15.1.1.38:8282/star-gold/tracks-v1a1/mono.m3u8?token=b6a3e781b34138cf41791251e216e2cd104cd392-9967f448861403b06bc1fa57b30179f7-1689084686-1689073886
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Sports", GB
 http://15.1.1.38:8282/1LIVE/tracks-v1a1/mono.m3u8?token=27764e115eef8bbc9e8a6a802e7b95218170adea-22511818d3fb1801a124a2709a15caad-1689084817-1689074017
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Sports", Deepto
+http://15.1.1.38:8282/depto-bangla/tracks-v1a1/mono.m3u8?token=90897f1e0ef9bb3161ad83e370b65b40cf381456-85ff8356ffdc4920335113058ff7323a-1689084928-1689074128
